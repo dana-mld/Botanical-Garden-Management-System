@@ -1,0 +1,42 @@
+server:
+  port: 8080
+
+spring:
+  cloud:
+    gateway:
+      globalcors:
+        cors-configurations:
+          '[/**]':
+            allowedOrigins: "http://localhost:3000"
+            allowedMethods:
+              - GET
+              - POST
+              - PUT
+              - DELETE
+              - OPTIONS
+            allowedHeaders: "*"
+            allowCredentials: true
+      routes:
+        - id: plant-service
+          uri: http://localhost:8081
+          predicates:
+            - Path=/api/plants,/api/plants/**,/api/statistics/**
+
+        - id: exemplar-service
+          uri: http://localhost:8082
+          predicates:
+            - Path=/api/exemplars/**,/api/imagini/**
+
+        - id: user-service
+          uri: http://localhost:8083
+          predicates:
+            - Path=/api/auth/**,/api/users/**
+
+        - id: export-notification-service
+          uri: http://localhost:8084
+          predicates:
+            - Path=/api/exports/**,/api/notifications/**
+
+logging:
+  level:
+    org.springframework.cloud.gateway: TRACE

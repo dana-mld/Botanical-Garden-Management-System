@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "plants": "Plants",
+    "login": "Login",
+    "logout": "Logout",
+    "manage_plants": "Manage Plants",
+    "manage_specimens": "Manage Specimens",
+    "statistics": "Statistics",
+    "manage_users": "Manage Users"
+  },
+  "home": {
+    "title": "Botanical Garden",
+    "subtitle": "Discover the fascinating world of plants",
+    "explore": "Explore Plants"
+  },
+  "plants": {
+    "title": "All Plants",
+    "search_placeholder": "Search by name or species...",
+    "filter_type": "Type",
+    "filter_species": "Species",
+    "filter_zone": "Garden Zone",
+    "filter_carnivorous": "Carnivorous only",
+    "all": "All",
+    "no_results": "No plants found.",
+    "view_details": "View details",
+    "carnivorous": "Carnivorous",
+    "zone": "Zone",
+    "species": "Species",
+    "type": "Type"
+  },
+  "plant_detail": {
+    "specimens": "Specimens",
+    "specimen_id": "Specimen ID",
+    "location": "Location",
+    "health": "Health status",
+    "date_added": "Added on",
+    "back": "Back"
+  },
+  "manage_plants": {
+    "title": "Manage Plants",
+    "add_plant": "Add Plant",
+    "edit": "Edit",
+    "delete": "Delete",
+    "name": "Name",
+    "type": "Type",
+    "species": "Species",
+    "zone": "Zone",
+    "carnivorous": "Carnivorous",
+    "description": "Description",
+    "save": "Save",
+    "cancel": "Cancel",
+    "export": "Export",
+    "export_csv": "Export CSV",
+    "export_json": "Export JSON",
+    "export_xml": "Export XML",
+    "export_doc": "Export DOC",
+    "confirm_delete": "Are you sure you want to delete this plant?"
+  },
+  "statistics": {
+    "title": "Botanical Garden Statistics",
+    "plants_by_type": "Plants by Type",
+    "plants_by_zone": "Plants by Zone",
+    "carnivorous_ratio": "Carnivorous Plants Ratio",
+    "specimens_per_plant": "Specimens per Plant",
+    "save_word": "Save to Word"
+  },
+  "users": {
+    "title": "Manage Users",
+    "add_user": "Add User",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "role": "Role",
+    "edit": "Edit",
+    "delete": "Delete",
+    "export_csv": "Export CSV",
+    "filter_role": "Filter by Role",
+    "all_roles": "All Roles",
+    "employee": "Employee",
+    "manager": "Manager",
+    "admin": "Administrator",
+    "save": "Save",
+    "cancel": "Cancel",
+    "notify": "Notify"
+  },
+  "login": {
+    "title": "Login",
+    "username": "Username",
+    "password": "Password",
+    "submit": "Sign in",
+    "error": "Invalid credentials"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "yes": "Yes",
+    "no": "No",
+    "close": "Close"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "plants": "Plantes",
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "manage_plants": "Gérer les Plantes",
+    "manage_specimens": "Gérer les Spécimens",
+    "statistics": "Statistiques",
+    "manage_users": "Gérer les Utilisateurs"
+  },
+  "home": {
+    "title": "Jardin Botanique",
+    "subtitle": "Découvrez le monde fascinant des plantes",
+    "explore": "Explorer les Plantes"
+  },
+  "plants": {
+    "title": "Toutes les Plantes",
+    "search_placeholder": "Rechercher par nom ou espèce...",
+    "filter_type": "Type",
+    "filter_species": "Espèce",
+    "filter_zone": "Zone du Jardin",
+    "filter_carnivorous": "Plantes carnivores seulement",
+    "all": "Toutes",
+    "no_results": "Aucune plante trouvée.",
+    "view_details": "Voir les détails",
+    "carnivorous": "Carnivore",
+    "zone": "Zone",
+    "species": "Espèce",
+    "type": "Type"
+  },
+  "plant_detail": {
+    "specimens": "Spécimens",
+    "specimen_id": "ID Spécimen",
+    "location": "Emplacement",
+    "health": "État de santé",
+    "date_added": "Ajouté le",
+    "back": "Retour"
+  },
+  "manage_plants": {
+    "title": "Gérer les Plantes",
+    "add_plant": "Ajouter une Plante",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "name": "Nom",
+    "type": "Type",
+    "species": "Espèce",
+    "zone": "Zone",
+    "carnivorous": "Carnivore",
+    "description": "Description",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "export": "Exporter",
+    "export_csv": "Exporter CSV",
+    "export_json": "Exporter JSON",
+    "export_xml": "Exporter XML",
+    "export_doc": "Exporter DOC",
+    "confirm_delete": "Êtes-vous sûr de vouloir supprimer cette plante ?"
+  },
+  "statistics": {
+    "title": "Statistiques du Jardin Botanique",
+    "plants_by_type": "Plantes par Type",
+    "plants_by_zone": "Plantes par Zone",
+    "carnivorous_ratio": "Ratio Plantes Carnivores",
+    "specimens_per_plant": "Spécimens par Plante",
+    "save_word": "Enregistrer en Word"
+  },
+  "users": {
+    "title": "Gérer les Utilisateurs",
+    "add_user": "Ajouter Utilisateur",
+    "name": "Nom",
+    "email": "Email",
+    "phone": "Téléphone",
+    "role": "Rôle",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "export_csv": "Exporter CSV",
+    "filter_role": "Filtrer par Rôle",
+    "all_roles": "Tous les Rôles",
+    "employee": "Employé",
+    "manager": "Manager",
+    "admin": "Administrateur",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "notify": "Notifier"
+  },
+  "login": {
+    "title": "Connexion",
+    "username": "Utilisateur",
+    "password": "Mot de passe",
+    "submit": "Se connecter",
+    "error": "Identifiants invalides"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "yes": "Oui",
+    "no": "Non",
+    "close": "Fermer"
+  }
+}

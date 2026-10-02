@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "plants": "Plante",
+    "login": "Autentificare",
+    "logout": "Deconectare",
+    "manage_plants": "Gestionare Plante",
+    "manage_specimens": "Gestionare Exemplare",
+    "statistics": "Statistici",
+    "manage_users": "Gestionare Utilizatori"
+  },
+  "home": {
+    "title": "Grădina Botanică",
+    "subtitle": "Descoperă lumea fascinantă a plantelor",
+    "explore": "Explorează Plantele"
+  },
+  "plants": {
+    "title": "Toate Plantele",
+    "search_placeholder": "Caută după denumire sau specie...",
+    "filter_type": "Tip",
+    "filter_species": "Specie",
+    "filter_zone": "Zona Grădinii",
+    "filter_carnivorous": "Doar plante carnivore",
+    "all": "Toate",
+    "no_results": "Nu s-au găsit plante.",
+    "view_details": "Vezi detalii",
+    "carnivorous": "Carnivoră",
+    "zone": "Zona",
+    "species": "Specie",
+    "type": "Tip"
+  },
+  "plant_detail": {
+    "specimens": "Exemplare",
+    "specimen_id": "ID Exemplar",
+    "location": "Locație",
+    "health": "Stare sănătate",
+    "date_added": "Adăugat la",
+    "back": "Înapoi"
+  },
+  "manage_plants": {
+    "title": "Gestionare Plante",
+    "add_plant": "Adaugă Plantă",
+    "edit": "Editează",
+    "delete": "Șterge",
+    "name": "Denumire",
+    "type": "Tip",
+    "species": "Specie",
+    "zone": "Zonă",
+    "carnivorous": "Carnivoră",
+    "description": "Descriere",
+    "save": "Salvează",
+    "cancel": "Anulează",
+    "export": "Exportă",
+    "export_csv": "Export CSV",
+    "export_json": "Export JSON",
+    "export_xml": "Export XML",
+    "export_doc": "Export DOC",
+    "confirm_delete": "Ești sigur că vrei să ștergi această plantă?"
+  },
+  "statistics": {
+    "title": "Statistici Grădina Botanică",
+    "plants_by_type": "Plante după Tip",
+    "plants_by_zone": "Plante după Zonă",
+    "carnivorous_ratio": "Raport Plante Carnivore",
+    "specimens_per_plant": "Exemplare per Plantă",
+    "save_word": "Salvează în Word"
+  },
+  "users": {
+    "title": "Gestionare Utilizatori",
+    "add_user": "Adaugă Utilizator",
+    "name": "Nume",
+    "email": "Email",
+    "phone": "Telefon",
+    "role": "Rol",
+    "edit": "Editează",
+    "delete": "Șterge",
+    "export_csv": "Export CSV",
+    "filter_role": "Filtrează după Rol",
+    "all_roles": "Toate Rolurile",
+    "employee": "Angajat",
+    "manager": "Manager",
+    "admin": "Administrator",
+    "save": "Salvează",
+    "cancel": "Anulează",
+    "notify": "Notifică"
+  },
+  "login": {
+    "title": "Autentificare",
+    "username": "Utilizator",
+    "password": "Parolă",
+    "submit": "Intră în cont",
+    "error": "Credențiale invalide"
+  },
+  "common": {
+    "loading": "Se încarcă...",
+    "error": "A apărut o eroare",
+    "yes": "Da",
+    "no": "Nu",
+    "close": "Închide"
+  }
+}
