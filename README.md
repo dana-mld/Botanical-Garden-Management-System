@@ -10,6 +10,7 @@ A web application for managing a botanical garden's plant catalog, individual sp
 - **Statistics and reporting:** view plant distribution by type, carnivorous versus non-carnivorous plants, and the most represented species; export statistics and charts to Word.
 - **User administration:** manage staff accounts and notify users when their account information changes.
 - **Internationalization:** switch between Romanian, English, and Hungarian without reloading the page.
+<img width="845" height="427" alt="Screenshot 2026-10-02 190617" src="https://github.com/user-attachments/assets/c7cf59f0-4334-4a59-8bdd-b44d8027da13" />
 
 ## User Roles
 
